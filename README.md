@@ -12,7 +12,8 @@ A nationwide retail company is experiencing inconsistent profit margins across i
 **The Goal:** Build a Power BI dashboard to identifies profitable products, highlight regional performance gaps, and support decision-making for inventory planning.
 
 ![Dashboard Preview](dashboard_screenshot.png)
-*(Note: Replace this text with your actual screenshot)*
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/40641fcf-58eb-4304-a858-a39247d1da52" />
+
 
 ## ⚙️ Data Modeling & Transformation
 To ensure performance and scalability, I transformed the raw flat file into a **Star Schema** data model.
